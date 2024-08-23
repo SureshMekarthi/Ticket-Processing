@@ -1,0 +1,6 @@
+WaitingTicketCount:0
+CompletedTicketsTotalPoint:1
+TicketsTotalPointByCategory:
+HumanResources:1
+TicketsTotalPointByEmployee:
+John Doe:1
